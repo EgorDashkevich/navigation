@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sign_in_to_main">SIGN IN -> MAIN</string>
+    <string name="sign_up_to_sign_in">SIGN UP -> SIGN IN</string>
+    <string name="sign_in_fragment">SignInFragment </string>
+    <string name="sign_up_fragment">SignUpFragment </string>
+    <string name="sign_in">SIGN IN </string>
+    <string name="sign_up">SIGN UP </string>
+    <string name="full_login">FullLoginFragment</string>
+    <string name="title_home">bNM0</string>
+    <string name="title_dashboard">bNM1</string>
+    <string name="title_notifications">bNM2</string>
+    <string name="bnm0">BottomBlankFragment0</string>
+    <string name="bnm1">BottomBlankFragment1</string>
+    <string name="bnm2">BottomBlankFragment2</string>
+    <string name="bottom_navigation_view">BottomNavigationView</string>
+    <string name="tabs">Tabs</string>
+    <string name="bottom_sheet">BottomSheet</string>
+    <string name="bottom_sheet_fragment">BottomSheetFragment</string>
+    <string name="show_bottom_sheet">SHOW BOTTOM SHEET</string>
+    <string name="tabs_blank_fragment">TabsBlankFragment%s</string>
+</resources>
